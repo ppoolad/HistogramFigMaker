@@ -1,6 +1,6 @@
 % Open figure
 close all
-save_fold = "./";
+save_fold = "./cd68";
 varName = "pixel3_all_ar_tof110";
 matx = eval(varName);
 bin_downsample_rate = 1;
